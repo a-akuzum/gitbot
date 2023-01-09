@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/a-akuzum/gitbot/issues"
   },
-  "homepage": "https://github.com/a-akuzum/gitbot#readme"
+  "homepage": "https://github.com/a-akuzum/gitbot#readme",
+  "dependencies": {
+    "jsonfile": "^6.1.0"
+  }
 }
